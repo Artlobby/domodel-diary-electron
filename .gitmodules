@@ -1,0 +1,3 @@
+[submodule "lib/domodel"]
+	path = lib/domodel
+	url = https://github.com/thoughtsunificator/domodel.git
