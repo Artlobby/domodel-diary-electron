@@ -16,7 +16,7 @@ Clone the repository:
 
 Init and load the submodule (domodel):
 
-```git submodule update --init```
+```git submodule update --init --recursive```
 
 And... You're set! Now you can start building your app. Enjoy!
 
