@@ -1,0 +1,27 @@
+{
+	"name": "domodel-skeleton",
+	"version": "1.0.0",
+	"description": "This is a boilerplate for [domodel](https://github.com/thoughtsunificator/domodel).",
+	"main": "index.js",
+	"directories": {
+		"lib": "lib",
+		"test": "test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/thoughtsunificator/domodel-skeleton.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/thoughtsunificator/domodel-skeleton/issues"
+	},
+	"scripts": {
+		"start": "npx browser-sync -s -w",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"devDependencies": {
+		"browser-sync": "^2.26.7"
+	},
+	"homepage": "https://github.com/thoughtsunificator/domodel-skeleton#readme"
+}
