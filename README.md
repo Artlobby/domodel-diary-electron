@@ -16,5 +16,11 @@ Clone the repository along with its submodules:
 
 And... You're set! Now you can start building your app. Enjoy!
 
+### Live reloading
 
+npm install
+npm start
 
+### Local
+
+Simply open index.html.
