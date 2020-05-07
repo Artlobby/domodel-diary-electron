@@ -10,13 +10,9 @@ A cooking pot and some bananas :).
 
 ### Installing
 
-Clone the repository:
+Clone the repository along with its submodules:
 
-```git clone https://github.com/thoughtsunificator/domodel-skeleton.git```
-
-Init and load the submodule (domodel):
-
-```git submodule update --init --recursive```
+```git clone --recurse-submodules https://github.com/thoughtsunificator/domodel-skeleton.git```
 
 And... You're set! Now you can start building your app. Enjoy!
 
