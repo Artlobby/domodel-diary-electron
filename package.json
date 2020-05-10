@@ -11,7 +11,7 @@
 		"type": "git",
 		"url": "git+https://github.com/thoughtsunificator/domodel-skeleton.git"
 	},
-	"author": "",
+	"author": "Romain Lebesle <oss@thoughtsunificator.me> (https://thoughtsunificator.me)",
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/thoughtsunificator/domodel-skeleton/issues"
