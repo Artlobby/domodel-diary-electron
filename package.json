@@ -17,7 +17,7 @@
 		"url": "https://github.com/thoughtsunificator/domodel-skeleton/issues"
 	},
 	"scripts": {
-		"start": "browser-sync -s -w  --no-ui --no-online -no-notify --no-open",
+		"start": "browser-sync -s -w  --no-ui --no-online --no-notify --no-open",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"devDependencies": {
