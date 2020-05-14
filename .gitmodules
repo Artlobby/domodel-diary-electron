@@ -1,6 +1,3 @@
-[submodule "lib/domodel"]
-	path = lib/domodel
-	url = https://github.com/thoughtsunificator/domodel.git
-[submodule "lib/domodel-collection"]
-	path = lib/domodel-collection
-	url = https://github.com/thoughtsunificator/domodel-collection
+[submodule "lib/domodel-diary"]
+	path = lib/domodel-diary
+	url = https://github.com/thoughtsunificator/domodel-diary

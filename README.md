@@ -1,26 +1,16 @@
-# domodel-skeleton [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/thoughtsunificator/domodel-skeleton)
+# domodel-diary-electron [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/thoughtsunificator/domodel-diary-electron)
 
-This is a boilerplate for [domodel](https://github.com/thoughtsunificator/domodel).
+Electron version of [domodel-diary](https://github.com/thoughtsunificator/domodel-diary).
 
 ## Getting started
-
-### Prerequisites
-
-A cooking pot and some bananas :).
 
 ### Installing
 
 Clone the repository along with its submodules:
 
-```git clone --recurse-submodules https://github.com/thoughtsunificator/domodel-skeleton.git```
+```git clone --recurse-submodules https://github.com/thoughtsunificator/domodel-diary-electron.git```
 
-And... You're set! Now you can start building your app. Enjoy!
-
-### Live reloading
+### Launch it
 
 - npm install
 - npm start
-
-### Local
-
-Simply open index.html.
