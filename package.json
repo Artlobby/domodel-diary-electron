@@ -1,6 +1,6 @@
 {
 	"name": "domodel-diary-electron",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A relatively simple diary app made with domodel",
 	"main": "main.js",
 	"repository": {
@@ -24,9 +24,9 @@
 		"eslint": "^7.0.0"
 	},
 	"build": {
-		"appId": "your.id",
+		"appId": "com.electron.domodel-diary",
 		"mac": {
-			"category": "your.app.category.type"
+			"category": "diary"
 		}
 	},
 	"homepage": "https://github.com/thoughtsunificator/domodel-diary-electron#readme"
