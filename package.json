@@ -1,6 +1,6 @@
 {
 	"name": "domodel-diary-electron",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "A relatively simple diary app made with domodel",
 	"main": "main.js",
 	"repository": {
