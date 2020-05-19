@@ -14,3 +14,10 @@ Clone the repository along with its submodules:
 
 - npm install
 - npm start
+
+### Build
+
+- npm install
+- npm run dist
+
+The binaries are available in the ``dist/`` folder.
