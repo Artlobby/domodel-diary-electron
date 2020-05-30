@@ -8,6 +8,8 @@ A small diary application made with [domodel](https://github.com/thoughtsunifica
 - Daily notes encrypted using AES
 - Password Protected
 
+If you can't find the release for your machine you have to build if yourself by following the instructions below.
+
 ## Getting started
 
 ### Installing
