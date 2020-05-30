@@ -4,10 +4,9 @@ A small diary application made with [domodel](https://github.com/thoughtsunifica
 
 ![](screenshot-calendar.png)
 
-- Password Protected
 - Calendar
-- Notes are encrypted using AES
-- Add notes for each days
+- Daily notes encrypted using AES
+- Password Protected
 
 ## Getting started
 
