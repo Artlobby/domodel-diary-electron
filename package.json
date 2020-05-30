@@ -15,7 +15,7 @@
 	"scripts": {
 		"start": "electron .",
 		"pack": "electron-builder --dir",
-		"dist": "electron-builder",
+		"dist": "electron-builder -m",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"devDependencies": {

@@ -1,6 +1,8 @@
 # domodel-diary-electron [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/thoughtsunificator/domodel-diary-electron) ![](https://img.shields.io/github/release-date/thoughtsunificator/domodel-diary-electron)
 
-Electron version of [domodel-diary](https://github.com/thoughtsunificator/domodel-diary).
+A small diary application made with [domodel](https://github.com/thoughtsunificator/domodel)
+
+![](screenshot-calendar.png)
 
 ## Getting started
 
