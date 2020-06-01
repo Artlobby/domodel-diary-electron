@@ -1,3 +1,7 @@
+<div align="left">
+        <img src="https://www.electronjs.org/app-img/domodel-diary/domodel-diary-icon-128.png">
+</div>
+
 # domodel-diary-electron [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/thoughtsunificator/domodel-diary-electron) ![](https://img.shields.io/github/release-date/thoughtsunificator/domodel-diary-electron)
 
 A small diary application made with [domodel](https://github.com/thoughtsunificator/domodel)
